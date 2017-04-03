@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.android\build-cache\b028c0b1147e0c3461390b78108528c97d6b5759\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b77eb5bdac918550d8da49c4a2519eb22352c364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_afc36f2e077751b1dd9196f2d6f0657ea8cda421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_34de4260e4b97160a6e51bee22e93471a638be12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_75ca616adfe0a5045011593e1b318b9fe61cfdfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.android\build-cache\74f8223276eda60d7a56ec2478ac4930907a52c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_972ce88b117f6e20a2e15b8fb09febb1bdb83ce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fde87517e58f91d639677d5f131b3780deaab69">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5cb4650a654e734dcaec1130927d91a6a0059509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.android\build-cache\17d768972c0c081af190fc1dcae520132c9c7ce3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94af2e6a2824a07efd5d3b8e85df7e41ce3bc636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.android\build-cache\6cf7bc69d9285498a6408ed28c4b8f12070143b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd0257908af9417a79b17596c6f16ccc5a3eced4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.android\build-cache\106a005e82105ace55b73e882044c8829fe9ab5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13820dafb8a3e02613cbb7ef2f22fcd99979d406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_7b266534e2942bd6826dfcda7e74d8896d8bd7fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bao\.android\build-cache\b028c0b1147e0c3461390b78108528c97d6b5759\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Code\Android Studio Projects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_11eb561303b783802d99f5f409cde9ebad4a7545\classes.dex" />
+    </item>
+
+</items>
